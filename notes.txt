@@ -1,0 +1,10 @@
+-Get = Pour recuperer de donnees articles/id
+
+-Post = Pour inserer de donnees
+
+-PUT = Pour modifier de donnees articles/id
+
+-DELETE = Pour supprimer de donnes articles/id
+
+
+4 = Operations
